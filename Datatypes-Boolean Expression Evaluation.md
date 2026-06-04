@@ -16,6 +16,20 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 Add Code here
+```
+a=0==True
+b=False==False 
+c=True+True
+d=False+9
+print("a is",a)
+print("b is",b)
+print("c:",c)
+print("d:",d)
+```
 
 ## Output
+<img width="337" height="230" alt="image" src="https://github.com/user-attachments/assets/f32df265-20b5-4172-b417-750051309472" />
+
+
 ## Result
+Successfully wrote a Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False.
